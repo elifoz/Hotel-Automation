@@ -1,0 +1,46 @@
+.arkaplan{
+    -webkit-border-radius: 20px;
+    position: absolute;
+    top: 150px;
+    background-color:#69e9f0;
+    padding-right: 750px;
+    margin-right:200px;
+    margin-left:200px;
+    margin-bottom:500px;
+   
+}
+
+body{
+    background-image: url("tozpembe.jpg");
+
+}
+
+
+
+.konum{
+   background-color:#003333;
+   color: white;
+   height:50px;
+   width:100%;
+   position: absolute;
+   top: 50px;
+   left: 0;
+-webkit-border-radius: 20px;
+
+   
+}
+
+.icon{
+   
+
+}
+
+.ictekidiv{
+    -webkit-border-radius: 20px;
+background-color:#996699;
+padding:30px;
+margin-top: 100px;
+margin-left:100px;
+
+
+}
