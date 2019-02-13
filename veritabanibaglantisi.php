@@ -1,9 +1,9 @@
 <?php
 header('Content-type: text/html; charset=utf-8');
 $servername = "localhost";
-$username = "";
+$username = "";//kendi veritabanınıza ait kullanıcı adı,şifre ve veritabanı isminizi girin
 $password = "";
-$dbadi="hotel";
+$dbadi="";
  try{
     $baglanti = new PDO("mysql:host=$servername;dbname=$dbadi;charset=utf8", $username, $password);
 
